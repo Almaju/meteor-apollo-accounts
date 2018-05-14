@@ -1,10 +1,10 @@
 {
-  "name": "meteor-apollo-accounts",
+  "name": "meteor-apollo-accounts-2",
   "version": "2.0.2",
   "description": "Meteor accounts in GraphQL",
   "main": "./client",
   "repository": {
-    "url": "https://github.com/nicolaslopezj/meteor-apollo-accounts",
+    "url": "https://github.com/Almaju/meteor-apollo-accounts",
     "type": "git"
   },
   "scripts": {
